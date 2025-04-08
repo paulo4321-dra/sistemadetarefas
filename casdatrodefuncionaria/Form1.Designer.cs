@@ -116,7 +116,7 @@ namespace casdatrodefuncionaria
             this.txtEmail.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtEmail.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtEmail.ForeColor = System.Drawing.Color.White;
-            this.txtEmail.Location = new System.Drawing.Point(45, 15);
+            this.txtEmail.Location = new System.Drawing.Point(53, 15);
             this.txtEmail.Name = "txtEmail";
             this.txtEmail.Size = new System.Drawing.Size(361, 25);
             this.txtEmail.TabIndex = 2;
@@ -178,7 +178,7 @@ namespace casdatrodefuncionaria
             this.txtNome.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtNome.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNome.ForeColor = System.Drawing.Color.White;
-            this.txtNome.Location = new System.Drawing.Point(48, 6);
+            this.txtNome.Location = new System.Drawing.Point(48, 16);
             this.txtNome.Name = "txtNome";
             this.txtNome.Size = new System.Drawing.Size(369, 25);
             this.txtNome.TabIndex = 0;
@@ -253,7 +253,7 @@ namespace casdatrodefuncionaria
             this.txtSenha.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtSenha.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSenha.ForeColor = System.Drawing.Color.White;
-            this.txtSenha.Location = new System.Drawing.Point(48, 3);
+            this.txtSenha.Location = new System.Drawing.Point(48, 15);
             this.txtSenha.Name = "txtSenha";
             this.txtSenha.Size = new System.Drawing.Size(369, 25);
             this.txtSenha.TabIndex = 0;
@@ -347,7 +347,7 @@ namespace casdatrodefuncionaria
             this.txtConfirmarSenha.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtConfirmarSenha.Font = new System.Drawing.Font("Arial", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtConfirmarSenha.ForeColor = System.Drawing.Color.White;
-            this.txtConfirmarSenha.Location = new System.Drawing.Point(65, 16);
+            this.txtConfirmarSenha.Location = new System.Drawing.Point(65, 15);
             this.txtConfirmarSenha.Name = "txtConfirmarSenha";
             this.txtConfirmarSenha.Size = new System.Drawing.Size(352, 25);
             this.txtConfirmarSenha.TabIndex = 14;

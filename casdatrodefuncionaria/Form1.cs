@@ -78,8 +78,7 @@ namespace casdatrodefuncionaria
                 conexao = new MySqlConnection(data_source);
                 conexao.Open();
 
-                //Teste de abertura de banco
-                // MessageBox.Show("Conexão aberta com sucesso");
+                
 
                 // Comando SQL para inserir um novo cliente no banco de dados
                 MySqlCommand cmd = new MySqlCommand
@@ -137,8 +136,7 @@ namespace casdatrodefuncionaria
                 {
                     conexao.Close();
 
-                    // Teste de fechamento de banco
-                     MessageBox.Show("Conexão fechada com sucesso");
+                    
                 }
             }
 
@@ -146,7 +144,6 @@ namespace casdatrodefuncionaria
             
         }
 
-        
     }
 
     }
